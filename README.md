@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## what's up!
+Studying CS and Business @ HKUST. Trying to make some fun stuff on the side :)
 <!--
 **abdullahimtiazz/abdullahimtiazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
